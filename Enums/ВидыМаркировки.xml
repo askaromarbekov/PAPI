@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Enum uuid="4105f7e8-af56-4630-8de2-0ca922b8d37a">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыМаркировки" category="Ref">
+				<xr:TypeId>930f51aa-8df2-42a7-af9d-228688c3df89</xr:TypeId>
+				<xr:ValueId>fc4d2234-f7d5-4be5-866c-08aca53cce17</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыМаркировки" category="Manager">
+				<xr:TypeId>c83829e4-05c8-4882-b925-30655ae69e4b</xr:TypeId>
+				<xr:ValueId>6dc8b340-1e1e-4034-bb94-f630624f31eb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыМаркировки" category="List">
+				<xr:TypeId>b3970117-12fc-4e94-94bd-6862f6428b50</xr:TypeId>
+				<xr:ValueId>f1defdae-5a75-437a-9896-d05198573c98</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыМаркировки</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>20a8241a-22e4-4655-b578-002f9b1ecee1</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="52d59e9a-9c35-4ff0-ae51-ba9e9ab3d98b">
+				<InternalInfo/>
+				<Properties>
+					<Name>КонтрольныйИдентификационныйЗнак</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>8f47d67f-7002-4de5-ae38-cbfb17fc705d</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9b0fc9dc-fe12-4fd0-8072-ed586e663c65">
+				<InternalInfo/>
+				<Properties>
+					<Name>НеМаркируется</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>31e21fd5-a5e2-44e3-abf8-a0f86d94fc0b</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="4e1466b7-79a3-426a-bd83-bffaed446f9e">
+				<InternalInfo/>
+				<Properties>
+					<Name>МаркируемаяПродукция</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>241ddb71-fbab-4fe0-aba8-7d933ec1bca7</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

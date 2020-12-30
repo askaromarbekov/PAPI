@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Enum uuid="b2c17995-145c-4cb7-9ce3-d9a0c6348b79">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыКонтрагентов" category="Ref">
+				<xr:TypeId>5fa38ea7-63fc-497d-9d78-495b63e25766</xr:TypeId>
+				<xr:ValueId>d283c530-e5a4-497d-be66-76137360a811</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыКонтрагентов" category="Manager">
+				<xr:TypeId>426d02fc-7568-402c-ade3-99649375bb7a</xr:TypeId>
+				<xr:ValueId>cc946c4c-816f-46a7-9601-5955d0894525</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыКонтрагентов" category="List">
+				<xr:TypeId>c4e9101e-9ad2-450c-a790-681e674f0f70</xr:TypeId>
+				<xr:ValueId>118a4548-a9bc-4151-942d-c1fe42f8bafc</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыКонтрагентов</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>b6b4b04e-11e1-4863-abd0-935b3b246198</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="ad156c73-cbbc-49df-b9c1-fb8cfff58ba2">
+				<InternalInfo/>
+				<Properties>
+					<Name>ГосударственныйОрган</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>cbb74a99-a3de-4a04-b39c-0c5fdfc6a1b0</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="27e6f929-6885-44e7-8d9f-2dee0c03d315">
+				<InternalInfo/>
+				<Properties>
+					<Name>ЮридическоеЛицо</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>f1df639b-d0d6-4c5a-be9f-fe40514bb507</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9b47db99-3507-482f-8256-e5811f73f62e">
+				<InternalInfo/>
+				<Properties>
+					<Name>ИндивидуальныйПредприниматель</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>473e170d-f298-4de8-aa08-bb00f5100100</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="67decf85-d331-4288-98bc-75fcc2d4b7bd">
+				<InternalInfo/>
+				<Properties>
+					<Name>ФизическоеЛицо</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>443de79e-3c1d-4498-b53e-77ce4b2a5167</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

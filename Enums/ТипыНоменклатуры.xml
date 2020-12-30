@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Enum uuid="6d16215e-8a2a-405c-aa53-29e1a0f2db65">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ТипыНоменклатуры" category="Ref">
+				<xr:TypeId>e20d2471-8a31-4914-b17e-35b0cfa7b3be</xr:TypeId>
+				<xr:ValueId>ad7031a0-96ab-490b-b5cc-0886a1d431cb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ТипыНоменклатуры" category="Manager">
+				<xr:TypeId>9f635d03-c944-4158-87da-66907f71c22c</xr:TypeId>
+				<xr:ValueId>caafd910-c1bf-4e27-9a7b-3fa3225376d8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ТипыНоменклатуры" category="List">
+				<xr:TypeId>d7756e15-6ab6-4b8d-8f0e-cfa667e230b9</xr:TypeId>
+				<xr:ValueId>27fdba9a-81bb-41b8-a177-12e1d5f2eb43</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ТипыНоменклатуры</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>26f5bd34-55fb-4583-a708-4a1aa18f4701</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="d686731e-9388-47a0-ad2b-23ccb09dcb09">
+				<InternalInfo/>
+				<Properties>
+					<Name>Запас</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>55a3f7e4-3de3-47d1-ae22-29cc117b567d</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="419e1977-0456-4221-a2c1-b544b5df8cb9">
+				<InternalInfo/>
+				<Properties>
+					<Name>Операция</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>3bf04f5c-0e2b-4597-b5ce-59a845276b86</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9d05d585-186d-4311-a708-3d35731302a5">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПодарочныйСертификат</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>78c63ce8-4298-4ddf-bdaa-d93bd267293a</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1b1358f8-e297-4c3c-8bb0-d4090e80eb46">
+				<InternalInfo/>
+				<Properties>
+					<Name>Услуга</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>bb571f86-1462-437b-9ebb-1df93b741d6b</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="5f722e1c-0249-4419-9392-56ee2d980027">
+				<InternalInfo/>
+				<Properties>
+					<Name>Работа</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>a65eacc7-20b4-4874-a8df-eeb4c78616c5</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2c3576e1-bde0-4f5a-8596-fd3335673d1b">
+				<InternalInfo/>
+				<Properties>
+					<Name>ВидРабот</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>6c7cb4e5-139e-4bc4-a35f-e6efc2523fec</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

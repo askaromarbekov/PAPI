@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="c49d49b1-503f-4cb5-8269-5ccde13b194a" configVersion="de36c8bdbccab5aa823f67ab63f79d42d742b447"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="1c7f5353-fb5f-4287-9b3e-357f8b42ec47" configVersion="bdebc8f17a306fbdba550e403f866c233158042c"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="1c7f5353-fb5f-4287-9b3e-357f8b42ec47.0" configVersion="d614812b3cf84fd955ba04e7624fbce93a539dc5"/>
+		<Metadata name="Catalog.Номенклатура" id="11c5ae6a-2741-45b8-b390-96ee9f9d606e" configVersion="5878f9486ca630e8c0fffb92a0b78de84acf3dd6"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="5f99e0a5-e293-42a7-962c-1933eab4e5d3" configVersion="62c274939e752ea463010d4b07e23206f66c1c52"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="5f99e0a5-e293-42a7-962c-1933eab4e5d3.0" configVersion="cf2e2814a8d2ce034d17efd7ab29d731fbebdaed"/>
+		<Metadata name="CommonModule.PAPI_ОбработкаМетодов" id="c35f5b84-d8b5-4abd-b3aa-dfa396207ad2" configVersion="7aa28230a6f0fc58cb15106b212d934046415f77"/>
+		<Metadata name="CommonModule.PAPI_ОбработкаМетодов.Module" id="c35f5b84-d8b5-4abd-b3aa-dfa396207ad2.0" configVersion="3f689415b10fb8b4d89ab9284c292f6d329254a6"/>
+		<Metadata name="CommonPicture.КнопкаВыпадающегоСписка" id="0c5acee7-2a8e-48df-af4d-2a2d64114377" configVersion="2ff3059cda9b03aa88db9c5bfb373918dfc503ed"/>
+		<Metadata name="CommonPicture.РазделАдминистрирование" id="28436117-94c6-48dc-aebb-6c2de99fbb69" configVersion="9ab9c1a27f824f4a112c6a545f99bdefdc6df975"/>
+		<Metadata name="CommonPicture.РазорватьСвязь" id="75cc20ee-7daf-4548-895c-8fa1db279dbc" configVersion="b7d9deff74d37f118896c8c0fcefd374b2edb46b"/>
+		<Metadata name="CommonPicture.УстановитьСвязь" id="c3e23e58-7893-4dd9-b407-5214b53f1451" configVersion="9547f61201251c5a0bd5762f81e6c1e11bba6632"/>
+		<Metadata name="Configuration.PAPI" id="ee6583d4-e56f-4ad7-bf15-b5c959b504c5" configVersion="39e61586f46ea7d4b736b277b0b159c82f13e014"/>
+		<Metadata name="Enum.ВариантыПечатиНаборов" id="c740ba89-8267-4ca7-be7b-033bdfefe209" configVersion="448689dc61682da3dd588d5d39ff343d549c27af">
+			<Metadata name="Enum.ВариантыПечатиНаборов.EnumValue.ТолькоНабор" id="2612c624-f0eb-4da0-a766-9fc347936df6"/>
+			<Metadata name="Enum.ВариантыПечатиНаборов.EnumValue.ТолькоКомплектующие" id="3b570302-2b13-420a-b049-caaf4ab890ce"/>
+			<Metadata name="Enum.ВариантыПечатиНаборов.EnumValue.НаборИКомплектующие" id="b05a4940-1412-453b-b643-230c028799f6"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыКонтрагентов" id="b2c17995-145c-4cb7-9ce3-d9a0c6348b79" configVersion="08a7f301ab446c515d94793d4d4c1156924d360c">
+			<Metadata name="Enum.ВидыКонтрагентов.EnumValue.ЮридическоеЛицо" id="27e6f929-6885-44e7-8d9f-2dee0c03d315"/>
+			<Metadata name="Enum.ВидыКонтрагентов.EnumValue.ФизическоеЛицо" id="67decf85-d331-4288-98bc-75fcc2d4b7bd"/>
+			<Metadata name="Enum.ВидыКонтрагентов.EnumValue.ИндивидуальныйПредприниматель" id="9b47db99-3507-482f-8256-e5811f73f62e"/>
+			<Metadata name="Enum.ВидыКонтрагентов.EnumValue.ГосударственныйОрган" id="ad156c73-cbbc-49df-b9c1-fb8cfff58ba2"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыМаркировки" id="4105f7e8-af56-4630-8de2-0ca922b8d37a" configVersion="7d43344873ba9e24a38cfafafd6170e6170f353e">
+			<Metadata name="Enum.ВидыМаркировки.EnumValue.МаркируемаяПродукция" id="4e1466b7-79a3-426a-bd83-bffaed446f9e"/>
+			<Metadata name="Enum.ВидыМаркировки.EnumValue.КонтрольныйИдентификационныйЗнак" id="52d59e9a-9c35-4ff0-ae51-ba9e9ab3d98b"/>
+			<Metadata name="Enum.ВидыМаркировки.EnumValue.НеМаркируется" id="9b0fc9dc-fe12-4fd0-8072-ed586e663c65"/>
+		</Metadata>
+		<Metadata name="Enum.ПолФизическогоЛица" id="e5256e6c-4984-440f-915e-61ad8980fbd3" configVersion="66b1021baa861740a62ca96703f047ec4696eaac">
+			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="523fe445-c43a-41f2-a5b7-3cfd78da39c8"/>
+			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Мужской" id="7b73fc46-5c82-41fd-bd5c-8250bd9c75e1"/>
+		</Metadata>
+		<Metadata name="Enum.СпособыЗачетаИРаспределенияПлатежей" id="76686b5d-54c4-43a2-bd59-a4fd94bbe857" configVersion="64a789860ca2826ef6a500089e2253356c76b83c">
+			<Metadata name="Enum.СпособыЗачетаИРаспределенияПлатежей.EnumValue.Вручную" id="99a62784-aab7-423c-b89f-752b0c515e2f"/>
+			<Metadata name="Enum.СпособыЗачетаИРаспределенияПлатежей.EnumValue.Авто" id="f267f8b7-6459-4b85-bb82-852a0fe5fde8"/>
+		</Metadata>
+		<Metadata name="Enum.СпособыПополненияЗапасов" id="1636c3f7-4629-40b6-b71d-9f85973c010e" configVersion="2cc9e1056f10815c832cf1536b77691f990e1927">
+			<Metadata name="Enum.СпособыПополненияЗапасов.EnumValue.Закупка" id="d6daaff0-082d-4d79-aa26-372798604779"/>
+		</Metadata>
+		<Metadata name="Enum.СпособыРасчетаЦеныНабора" id="cb98dcc7-653f-420c-a5e1-6eebf00a908b" configVersion="cbdd0b2da08c3647175cfdf69a38ad406fb8d830">
+			<Metadata name="Enum.СпособыРасчетаЦеныНабора.EnumValue.НазначаетсяИРаспределяетсяПоЦене" id="06fc669f-6679-484e-83f2-e3c54beac4ad"/>
+			<Metadata name="Enum.СпособыРасчетаЦеныНабора.EnumValue.СкладыватьИзЦенКомплектующих" id="be09eebf-8510-4cc1-ab19-f3f25ce0436d"/>
+			<Metadata name="Enum.СпособыРасчетаЦеныНабора.EnumValue.НазначаетсяИРаспределяетсяПоДолеСтоимости" id="c23d2707-5bae-4f35-b30f-e43112a41501"/>
+		</Metadata>
+		<Metadata name="Enum.СрокДействияПодарочныхСертификатов" id="d3648262-fe4c-40f8-80f9-8c8b4cb16920" configVersion="b8abaa4b6f6a62a143a65ad8c96b0049c61a47a9">
+			<Metadata name="Enum.СрокДействияПодарочныхСертификатов.EnumValue.СОграничениемНаДату" id="75545fd1-5f37-46ed-a521-e45b835dc210"/>
+			<Metadata name="Enum.СрокДействияПодарочныхСертификатов.EnumValue.ПериодПослеПродажи" id="a6596812-bb64-496f-a35b-761f95cb19f0"/>
+			<Metadata name="Enum.СрокДействияПодарочныхСертификатов.EnumValue.БезОграниченияСрока" id="b484c5f9-06b4-4b30-948f-09b1a285f6a4"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыНоменклатуры" id="6d16215e-8a2a-405c-aa53-29e1a0f2db65" configVersion="763a9525e51cc2c0d1cf0cea3dd76666e4571f7e">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Услуга" id="1b1358f8-e297-4c3c-8bb0-d4090e80eb46"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.ВидРабот" id="2c3576e1-bde0-4f5a-8596-fd3335673d1b"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Операция" id="419e1977-0456-4221-a2c1-b544b5df8cb9"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Работа" id="5f722e1c-0249-4419-9392-56ee2d980027"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.ПодарочныйСертификат" id="9d05d585-186d-4311-a708-3d35731302a5"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Запас" id="d686731e-9388-47a0-ad2b-23ccb09dcb09"/>
+		</Metadata>
+		<Metadata name="HTTPService.PAPI" id="071ce458-1f08-44e3-81c4-4374b32b8315" configVersion="4e976f6073db7af38df2d809e9a586ed2000e5cd">
+			<Metadata name="HTTPService.PAPI.URLTemplate.papi" id="041427a2-1a2e-454f-b236-700d1e8b0f1f"/>
+			<Metadata name="HTTPService.PAPI.URLTemplate.papi.Method.any" id="1556403d-84a3-4b5f-8074-2514386d4e6a"/>
+		</Metadata>
+		<Metadata name="HTTPService.PAPI.Module" id="071ce458-1f08-44e3-81c4-4374b32b8315.0" configVersion="679f9a6d15bba0a10fa0244d51a8f70c1f95153c"/>
+		<Metadata name="Language.Русский" id="496f7211-9970-4c82-9868-df29de50915e" configVersion="00ff7897b7ec2fa679f814c1eba81a00f5594bf8"/>
+		<Metadata name="StyleItem.ГруппаВариантовОтчетовЦвет" id="26dbae3a-75c7-46f7-9993-c78c4b0b17b7" configVersion="bfa9c248d7ccd2818d65c2e244c6c3fdacce9a95"/>
+		<Metadata name="StyleItem.ЗапрещенноеПравоДоступа" id="0694e7ea-db66-44f3-96b9-c51aee0f0e07" configVersion="1829ed448eef71ae50a4b1db93cdbd4afab3975e"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="96b83541-7e9a-4da6-b77c-1ab51b3d6061" configVersion="01cd610dde9dfacfea13185a0f97b000af9373d6"/>
+		<Metadata name="StyleItem.ТекстВторостепеннойНадписи" id="4b659358-a1c1-42ce-999b-e7921ee5409d" configVersion="6f74c06b3ea2d5505dbf706e4640e5e0bf058838"/>
+		<Metadata name="StyleItem.ЦветЗаголовкаМонитораРуководителя" id="e6319acf-97bd-4f7d-be55-716c11ed6dde" configVersion="f6a788d700eebbad43dc18488599d9395f117fb4"/>
+		<Metadata name="StyleItem.ЦветНадписейМонитораРуководителя" id="a0caa740-a324-460b-bf6e-3157487f93a5" configVersion="827ecbc0741e7adfb0cbdd0f510b75dba50e57e9"/>
+		<Metadata name="StyleItem.ЦветТекстаНевыбраннойКартинки" id="23e2cce5-dcbc-467c-967f-ffc0d168eba8" configVersion="dfe19bfaf7e7395e0c06e1214581dcb6f03d078f"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
