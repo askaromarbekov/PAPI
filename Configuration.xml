@@ -46,8 +46,8 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PlatformApplication</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<Vendor/>
-			<Version>2020-12-30</Version>
+			<Vendor>Phaeton</Vendor>
+			<Version>2020-12-31</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation>
 				<v8:item>
@@ -55,8 +55,19 @@
 					<v8:content>Обмен с БК через HTTP-сервис</v8:content>
 				</v8:item>
 			</BriefInformation>
-			<DetailedInformation/>
-			<Copyright/>
+			<DetailedInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Phaeton
+Askar OMARBEKOV</v8:content>
+				</v8:item>
+			</DetailedInformation>
+			<Copyright>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Phaeton</v8:content>
+				</v8:item>
+			</Copyright>
 			<VendorInformationAddress/>
 			<ConfigurationInformationAddress/>
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
@@ -70,6 +81,8 @@
 			<StyleItem>ПоясняющийТекст</StyleItem>
 			<StyleItem>ЗапрещенноеПравоДоступа</StyleItem>
 			<StyleItem>ЦветТекстаНевыбраннойКартинки</StyleItem>
+			<StyleItem>ИтогиФонГруппы</StyleItem>
+			<StyleItem>ЦветРамкиГруппыЦеныИВалюты</StyleItem>
 			<CommonPicture>УстановитьСвязь</CommonPicture>
 			<CommonPicture>РазорватьСвязь</CommonPicture>
 			<CommonPicture>КнопкаВыпадающегоСписка</CommonPicture>
@@ -78,6 +91,7 @@
 			<HTTPService>PAPI</HTTPService>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
+			<Document>СчетФактураПолученный</Document>
 			<Enum>ВидыКонтрагентов</Enum>
 			<Enum>СпособыЗачетаИРаспределенияПлатежей</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
@@ -87,6 +101,7 @@
 			<Enum>СпособыРасчетаЦеныНабора</Enum>
 			<Enum>ВидыМаркировки</Enum>
 			<Enum>СпособыПополненияЗапасов</Enum>
+			<Enum>ВидыСчетовФактур</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
