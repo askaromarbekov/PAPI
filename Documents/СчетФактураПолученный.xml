@@ -28,6 +28,7 @@
 			<Comment/>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<ExtendedConfigurationObject>b346bd8f-c991-4541-af43-ea3d6d64a42e</ExtendedConfigurationObject>
+			<DefaultListForm>Document.СчетФактураПолученный.Form.PAPI_ФормаСписка</DefaultListForm>
 			<RegisterRecords/>
 		</Properties>
 		<ChildObjects>
@@ -70,7 +71,37 @@
 					<DataHistory>DontUse</DataHistory>
 				</Properties>
 			</Attribute>
+			<Attribute uuid="d1776096-edaf-4cac-8373-90fcb6358b95">
+				<InternalInfo/>
+				<Properties>
+					<Name>СуммаДокумента</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>978f226b-f891-46f1-a1e1-1c4181cc750c</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="0b9dace1-33a5-442f-8beb-561b4504cf83">
+				<InternalInfo/>
+				<Properties>
+					<Name>Контрагент</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>db096911-ab29-429e-bc04-95c81dcc2901</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Контрагенты</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
 			<Form>ФормаДокумента</Form>
+			<Form>PAPI_ФормаСписка</Form>
 		</ChildObjects>
 	</Document>
 </MetaDataObject>

@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Phaeton</Vendor>
-			<Version>2021-01-05</Version>
+			<Version>2021-01-06</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation>
 				<v8:item>
@@ -87,10 +87,13 @@ Askar OMARBEKOV</v8:content>
 			<StyleItem>ЦветТекстаНевыбраннойКартинки</StyleItem>
 			<StyleItem>ИтогиФонГруппы</StyleItem>
 			<StyleItem>ЦветРамкиГруппыЦеныИВалюты</StyleItem>
+			<StyleItem>ЦветТекстаПравойПанелиОтборов</StyleItem>
 			<CommonPicture>УстановитьСвязь</CommonPicture>
 			<CommonPicture>РазорватьСвязь</CommonPicture>
 			<CommonPicture>КнопкаВыпадающегоСписка</CommonPicture>
 			<CommonPicture>РазделАдминистрирование</CommonPicture>
+			<CommonPicture>Скрепка</CommonPicture>
+			<CommonPicture>КоллекцияСкрепка</CommonPicture>
 			<CommonModule>PAPI_ОбработкаМетодов</CommonModule>
 			<HTTPService>PAPI</HTTPService>
 			<Catalog>Контрагенты</Catalog>

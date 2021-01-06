@@ -10,15 +10,22 @@
 		<Metadata name="CommonModule.PAPI_ОбработкаМетодов" id="c35f5b84-d8b5-4abd-b3aa-dfa396207ad2" configVersion="7aa28230a6f0fc58cb15106b212d934046415f77"/>
 		<Metadata name="CommonModule.PAPI_ОбработкаМетодов.Module" id="c35f5b84-d8b5-4abd-b3aa-dfa396207ad2.0" configVersion="32ffe7e37767a9f8221d43f868b8dc93999d39c5"/>
 		<Metadata name="CommonPicture.КнопкаВыпадающегоСписка" id="0c5acee7-2a8e-48df-af4d-2a2d64114377" configVersion="2ff3059cda9b03aa88db9c5bfb373918dfc503ed"/>
+		<Metadata name="CommonPicture.КоллекцияСкрепка" id="7dae7dd8-cda5-47f3-94a5-3adda439e38f" configVersion="cf89d842641877460171ebfd1d7d59de1d246109"/>
 		<Metadata name="CommonPicture.РазделАдминистрирование" id="28436117-94c6-48dc-aebb-6c2de99fbb69" configVersion="9ab9c1a27f824f4a112c6a545f99bdefdc6df975"/>
 		<Metadata name="CommonPicture.РазорватьСвязь" id="75cc20ee-7daf-4548-895c-8fa1db279dbc" configVersion="b7d9deff74d37f118896c8c0fcefd374b2edb46b"/>
+		<Metadata name="CommonPicture.Скрепка" id="4e99a40d-1244-4880-ad19-a33aa0110d07" configVersion="0cd87f78c7ad9796afa4b57f8b7ee27fb7384d41"/>
 		<Metadata name="CommonPicture.УстановитьСвязь" id="c3e23e58-7893-4dd9-b407-5214b53f1451" configVersion="9547f61201251c5a0bd5762f81e6c1e11bba6632"/>
-		<Metadata name="Configuration.PAPI" id="ee6583d4-e56f-4ad7-bf15-b5c959b504c5" configVersion="2cae3aefff9679f46385372ae86c3f2c2c698827"/>
-		<Metadata name="Document.СчетФактураПолученный" id="3927a2f5-8fc2-4068-88b9-371ec4785052" configVersion="a069d5f8cc0da699899e1a7e389397795133091e">
+		<Metadata name="Configuration.PAPI" id="ee6583d4-e56f-4ad7-bf15-b5c959b504c5" configVersion="b7a5cd414ee76da44eaf4b96d827868bbac8b602"/>
+		<Metadata name="Document.СчетФактураПолученный" id="3927a2f5-8fc2-4068-88b9-371ec4785052" configVersion="99dce30103fd3d432b780902da70a0e14cdf0745">
+			<Metadata name="Document.СчетФактураПолученный.Attribute.Контрагент" id="0b9dace1-33a5-442f-8beb-561b4504cf83"/>
 			<Metadata name="Document.СчетФактураПолученный.Attribute.PAPI_НеВыгружатьБК" id="88427dec-09b2-4828-9bab-678f6bc36a4f"/>
+			<Metadata name="Document.СчетФактураПолученный.Attribute.СуммаДокумента" id="d1776096-edaf-4cac-8373-90fcb6358b95"/>
 		</Metadata>
+		<Metadata name="Document.СчетФактураПолученный.Form.PAPI_ФормаСписка" id="cec2f8e4-dc88-407c-8798-5edc8becd636" configVersion="d51668b529601846e820a58aff1312e72ddd19ad"/>
+		<Metadata name="Document.СчетФактураПолученный.Form.PAPI_ФормаСписка.Form" id="cec2f8e4-dc88-407c-8798-5edc8becd636.0" configVersion="d07c0b1612cef7d1deb8e050b5cb540f824f120d"/>
 		<Metadata name="Document.СчетФактураПолученный.Form.ФормаДокумента" id="0b24d709-4d5c-4ba6-9c83-3f2888baa4f8" configVersion="bdc661bc1d999adbff1baa7b10e6320755c8229e"/>
 		<Metadata name="Document.СчетФактураПолученный.Form.ФормаДокумента.Form" id="0b24d709-4d5c-4ba6-9c83-3f2888baa4f8.0" configVersion="e11c9d1ca4d1549a17f781ee7f274fd986c6fb44"/>
+		<Metadata name="Document.СчетФактураПолученный.ManagerModule" id="3927a2f5-8fc2-4068-88b9-371ec4785052.2" configVersion="637d057eaacad2becf3f07010f7395dcad43041f"/>
 		<Metadata name="Enum.ВариантыПечатиНаборов" id="c740ba89-8267-4ca7-be7b-033bdfefe209" configVersion="448689dc61682da3dd588d5d39ff343d549c27af">
 			<Metadata name="Enum.ВариантыПечатиНаборов.EnumValue.ТолькоНабор" id="2612c624-f0eb-4da0-a766-9fc347936df6"/>
 			<Metadata name="Enum.ВариантыПечатиНаборов.EnumValue.ТолькоКомплектующие" id="3b570302-2b13-420a-b049-caaf4ab890ce"/>
@@ -84,5 +91,6 @@
 		<Metadata name="StyleItem.ЦветНадписейМонитораРуководителя" id="a0caa740-a324-460b-bf6e-3157487f93a5" configVersion="827ecbc0741e7adfb0cbdd0f510b75dba50e57e9"/>
 		<Metadata name="StyleItem.ЦветРамкиГруппыЦеныИВалюты" id="3587bb8b-8a20-422b-a22a-2c9b78784119" configVersion="71ab3a6f3103357dd7e28d440579d5207af9fd9b"/>
 		<Metadata name="StyleItem.ЦветТекстаНевыбраннойКартинки" id="23e2cce5-dcbc-467c-967f-ffc0d168eba8" configVersion="dfe19bfaf7e7395e0c06e1214581dcb6f03d078f"/>
+		<Metadata name="StyleItem.ЦветТекстаПравойПанелиОтборов" id="da548d72-e437-41e4-bd69-eb3d9aec85ae" configVersion="4ff59e7c7fd37dd3db67cc6907935fd3e9beeb9b"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
